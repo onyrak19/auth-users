@@ -6,23 +6,27 @@
       "phone_number": "+261377788459",
       "user_id": "onyzHdaE0SS",
       "status": "active"
-      
-    }, 
+    },
     {
       "api_id": "29764492",
       "api_hash": "b3dd5a9615621bc5afea123c74b88cea",
       "phone_number": "+261389999672",
       "user_id": "FAKE_USER_123",
       "status": "active"
-      
-    }, 
+    },
     {
       "api_id": "24838676",
       "api_hash": "8de492c1fa4fc548004eefa391ae4556",
       "phone_number": "+261388458253",
       "user_id": "ilimite",
       "status": "active"
-      
+    },
+    {
+      "api_id": "99999999",
+      "api_hash": "abcdef1234567890abcdef1234567890",
+      "phone_number": "+261123456789",
+      "user_id": "nouvel_utilisateur",
+      "status": "active"
     }
   ]
 }
