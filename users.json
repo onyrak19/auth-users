@@ -24,9 +24,9 @@
     {
       "api_id": "99999999",
       "api_hash": "abcdef1234567890abcdef1234567890",
-      "phone_number": "+261123456789",
+      "phone_number": "+261987654321",
       "user_id": "nouvel_utilisateur",
-      "status": "active"
+      "status": "inactive"
     }
   ]
 }
