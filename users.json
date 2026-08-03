@@ -20,6 +20,13 @@
       "phone_number": "+261388458253",
       "user_id": "ilimite",
       "status": "active"
+    },
+    {
+      "api_id": "25041398",
+      "api_hash": "eccd3cb364198f10a2c53fdd74f412b6",
+      "phone_number": "+261347793609",
+      "user_id": "onykely",
+      "status": "active"
     }
   ]
 }
